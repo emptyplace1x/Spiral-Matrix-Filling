@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/matrix_filling.dir/link.d CMakeFiles/matrix_filling.dir/src/main.c.o CMakeFiles/matrix_filling.dir/src/filling.c.o CMakeFiles/matrix_filling.dir/src/generate.c.o CMakeFiles/matrix_filling.dir/src/output.c.o -o matrix_filling
