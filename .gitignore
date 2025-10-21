@@ -11,6 +11,7 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
+.cache/
 build/
 build.sh
 test.sh
