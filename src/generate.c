@@ -70,7 +70,7 @@ int* inputManually(int size) {
     int* vector = malloc(size * sizeof(int));
 
     for (int i = 0; i < size; i++) {
-        printf("Enter vector element %d: ", i); scanf("%d", &vector[i]);
+        scanf("%d", &vector[i]);
     }
     
     return vector;
