@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/emptyplace/Projects/c/Lab/Programming/6.18/build",
+  "command": "/usr/bin/cc  -I/home/emptyplace/Projects/c/Lab/Programming/6.18/include  -o CMakeFiles/matrix_filling.dir/src/main.c.o -c /home/emptyplace/Projects/c/Lab/Programming/6.18/src/main.c",
+  "file": "/home/emptyplace/Projects/c/Lab/Programming/6.18/src/main.c",
+  "output": "CMakeFiles/matrix_filling.dir/src/main.c.o"
+},
+{
+  "directory": "/home/emptyplace/Projects/c/Lab/Programming/6.18/build",
+  "command": "/usr/bin/cc  -I/home/emptyplace/Projects/c/Lab/Programming/6.18/include  -o CMakeFiles/matrix_filling.dir/src/filling.c.o -c /home/emptyplace/Projects/c/Lab/Programming/6.18/src/filling.c",
+  "file": "/home/emptyplace/Projects/c/Lab/Programming/6.18/src/filling.c",
+  "output": "CMakeFiles/matrix_filling.dir/src/filling.c.o"
+},
+{
+  "directory": "/home/emptyplace/Projects/c/Lab/Programming/6.18/build",
+  "command": "/usr/bin/cc  -I/home/emptyplace/Projects/c/Lab/Programming/6.18/include  -o CMakeFiles/matrix_filling.dir/src/generate.c.o -c /home/emptyplace/Projects/c/Lab/Programming/6.18/src/generate.c",
+  "file": "/home/emptyplace/Projects/c/Lab/Programming/6.18/src/generate.c",
+  "output": "CMakeFiles/matrix_filling.dir/src/generate.c.o"
+},
+{
+  "directory": "/home/emptyplace/Projects/c/Lab/Programming/6.18/build",
+  "command": "/usr/bin/cc  -I/home/emptyplace/Projects/c/Lab/Programming/6.18/include  -o CMakeFiles/matrix_filling.dir/src/output.c.o -c /home/emptyplace/Projects/c/Lab/Programming/6.18/src/output.c",
+  "file": "/home/emptyplace/Projects/c/Lab/Programming/6.18/src/output.c",
+  "output": "CMakeFiles/matrix_filling.dir/src/output.c.o"
+}
+]

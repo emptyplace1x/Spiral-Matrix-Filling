@@ -1,0 +1,3 @@
+/home/emptyplace/Projects/c/Lab/Programming/6.18/build/CMakeFiles/matrix_filling.dir
+/home/emptyplace/Projects/c/Lab/Programming/6.18/build/CMakeFiles/edit_cache.dir
+/home/emptyplace/Projects/c/Lab/Programming/6.18/build/CMakeFiles/rebuild_cache.dir
