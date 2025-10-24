@@ -15,7 +15,7 @@ int main() {
 
     clock_t begin = clock();
 
-    int **mat = createFilled(vector, mat_size);
+    int ***mat = createFilled(vector, mat_size);
     // Output
     print_and_free(mat, mat_size);
 
